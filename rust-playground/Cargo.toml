@@ -1,0 +1,10 @@
+[package]
+name = "rust-playground"
+version = "0.1.0"
+edition = "2021"
+
+# Set the default binary to `main.rs`
+[package.metadata]
+default-run = "rust-playground"
+
+[dependencies]
