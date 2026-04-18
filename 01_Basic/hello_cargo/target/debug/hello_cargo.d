@@ -1,0 +1,1 @@
+/Users/makren/Documents/projects/rust/01_Basic/hello_cargo/target/debug/hello_cargo: /Users/makren/Documents/projects/rust/01_Basic/hello_cargo/src/main.rs /Users/makren/Documents/projects/rust/01_Basic/hello_cargo/src/variables.rs
