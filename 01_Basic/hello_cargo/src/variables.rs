@@ -3,6 +3,9 @@ pub fn variables() {
     let logical: bool = true;
     let a_float: f64 = 23.324;
     let an_integer = 234;
+    let signed_int: i16 = -33;
+
+    println!("signed int : {}", signed_int);
 
     let mut mutable = 255;
 
